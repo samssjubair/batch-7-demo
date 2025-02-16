@@ -50,7 +50,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <h3 className="text-center">Products</h3>
+      <h3 className="text-center">Flowers</h3>
 
       <div
         style={{
@@ -72,7 +72,7 @@ function App() {
       </div>
 
       <div>
-        <h2 className="text-center">Friend List</h2>
+        <h2 className="text-center">Enemy List</h2>
         <div style={{
            display: "flex",
            gap: "1rem",
